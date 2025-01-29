@@ -1,2 +1,3 @@
-# Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_outs
-Celldega Landscape files of a public dataset: Xenium_Prime_Ovarian_Cancer_FFPE_XRrun_outs
+This repo contains a test dataset for Celldega. The data was obtained from 10X Genomics Inc
+
+Data: https://www.10xgenomics.com/datasets/
